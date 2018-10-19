@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="deeplearning-1.01-fat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../usefnn/deeplearning-1.01-fat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
